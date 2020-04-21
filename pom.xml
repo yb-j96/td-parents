@@ -19,7 +19,7 @@
         <td-version>1.0.1</td-version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <security-oauth2.version>2.3.4.RELEASE</security-oauth2.version>
+        <security-oauth2.version>2.3.6.RELEASE</security-oauth2.version>
         <spring-cloud-dependencies.version>Greenwich.SR2</spring-cloud-dependencies.version>
         <spring-cloud-alibaba-dependencies.version>2.1.1.RELEASE</spring-cloud-alibaba-dependencies.version>
         <spring-mybatis.version>1.3.2</spring-mybatis.version>
