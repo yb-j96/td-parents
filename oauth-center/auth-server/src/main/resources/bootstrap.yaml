@@ -1,0 +1,23 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        shared-dataids: common.yaml
+        refreshable-dataids: common.yaml
+        server-addr: 127.0.0.1:8848
+        file-extension: properties
+        namespace: f873c787-e07b-4eb2-8de1-74e335b24a24
+
+  application:
+    name: oauth-server
+  main:
+    allow-bean-definition-overriding: true
+
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: "*"
+#  endpoint:
+#    health:
+#      show-details: always
